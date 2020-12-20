@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66218768547",
+    "project_id": "airtime-data",
+    "storage_bucket": "airtime-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66218768547:android:c1bacf2f77aa1def35a716",
+        "android_client_info": {
+          "package_name": "luckyodeh.airtime_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66218768547-dp8tl6fk07roqnbimle9blumj8plmqtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwq2a4y-CUlSXgdFnnNaIa4DGGHAPZVxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66218768547-dp8tl6fk07roqnbimle9blumj8plmqtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
